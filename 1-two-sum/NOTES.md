@@ -1,1 +1,1 @@
-Solved by <a href="https://leetcode.com/Abhinavgor/">Abhinav Gorantla​</a>
+Solved by <a href="https://leetcode.com/AbhinavGor/">Abhinav Gorantla​</a>
