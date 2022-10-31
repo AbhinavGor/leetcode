@@ -32,3 +32,5 @@
 	<li>Both <code>list1</code> and <code>list2</code> are sorted in <strong>non-decreasing</strong> order.</li>
 </ul>
 </div>
+
+Solved by <a href="https://leetcode.com/AbhinavGor/">Abhinav Gorantla​</a>
