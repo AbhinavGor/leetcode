@@ -29,3 +29,5 @@
 	<li><code>-10<sup>4</sup> &lt;= x<sup>n</sup> &lt;= 10<sup>4</sup></code></li>
 </ul>
 </div>
+
+Solved by <a href="https://leetcode.com/AbhinavGor/">Abhinav Gorantla​</a>
