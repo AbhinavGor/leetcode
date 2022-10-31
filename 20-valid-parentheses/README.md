@@ -34,3 +34,5 @@
 	<li><code>s</code> consists of parentheses only <code>'()[]{}'</code>.</li>
 </ul>
 </div>
+
+Solved by <a href="https://leetcode.com/AbhinavGor/">Abhinav Gorantla​</a>
