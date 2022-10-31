@@ -29,3 +29,5 @@
 	<li><code>haystack</code> and <code>needle</code> consist of only lowercase English characters.</li>
 </ul>
 </div>
+
+Solved by <a href="https://leetcode.com/AbhinavGor/">Abhinav Gorantla​</a>
