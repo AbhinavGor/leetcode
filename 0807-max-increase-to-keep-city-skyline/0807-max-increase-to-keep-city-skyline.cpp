@@ -21,16 +21,6 @@ public:
             }
         }
         
-//         cout<<"HMAX"<<endl;
-//         for(int i = 0; i < hMax.size(); i++){
-//             cout<<hMax[i]<<endl;
-//         }
-        
-//         cout<<"VMAX"<<endl;
-//         for(int i = 0; i < vMax.size(); i++){
-//             cout<<vMax[i]<<endl;
-//         }
-        
         vector<vector<int>> res;
         vector<int> temp;
         
