@@ -1,15 +1,21 @@
 class Solution {
 public:
     string defangIPaddr(string address) {
-        string res ="";
+        vector<int> indices;
+        
         for(int i = 0; i < address.size(); i++){
             if(address[i] == '.'){
-                res = res + "[.]";
-            }else{
-                res = res + address[i];
+                indices.push_back(i);
             }
         }
         
-        return res;
+        int addLen = 0;
+        
+        for(int i = 0; i < indices.size(); i++){
+            address.replace(indices[i] + addLen, 1, "[.]");
+            addLen += 2;
+        }
+        
+        return address;
     }
 };
