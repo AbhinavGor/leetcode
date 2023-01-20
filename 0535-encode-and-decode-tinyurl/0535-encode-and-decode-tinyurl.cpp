@@ -8,8 +8,6 @@ public:
         
         string res = "";
         
-         for (int i = 0; i<10;i++)
-            res +=map[rand() %62];
         res = to_string(rand()) + "";
         tiny[res] = longUrl;
         
