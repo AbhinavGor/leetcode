@@ -22,7 +22,7 @@ public:
                 cnt++;
                 studentsQ.push(studentsQ.front());
                 studentsQ.pop();
-                if(cnt >= students.size()*students.size()){
+                if(cnt >= swStack.size()*students.size()){
                     return swStack.size();
                 }
             }
