@@ -1,6 +1,5 @@
 class MinStack {
 private:
-    stack<int> s;
     stack<pair<int, int>> mins;
     
 public:
@@ -8,7 +7,6 @@ public:
     }
     
     void push(int val) {
-        s.push(val);
         if(mins.empty()){
             mins.push({val, val});
         }else{
