@@ -7,8 +7,6 @@ public:
             if(i < 0)
                 n++;
             if(i == 0)
-                z++;
-            if(z > 0)
                 return 0;
         }
         
