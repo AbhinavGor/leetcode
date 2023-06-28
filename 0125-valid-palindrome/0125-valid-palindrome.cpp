@@ -1,25 +1,32 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string S = "";
         
-        for(int i = 0; i < s.size(); i++){
-            if(65 <= s[i] && s[i] <= 90){
-               S+=(s[i] + 32); 
-            }else if (97 <= s[i] && s[i] <= 122){
-                S+=s[i]; 
-            }else if (48 <= s[i] && s[i] <= 57){
-                S+=s[i]; 
+        for (int i = 0; i < s.size(); i++){
+            if(isalpha(s[i]) || isdigit(s[i])){
+                if(!islower(s[i])){
+                    s[i] = s[i] + 32;
+                }
+            }else{
+                s.erase(i, 1);
+                i--;
             }
         }
+        cout<<s<<endl;
         
-        cout<<S<<endl;
-        for(int i = 0; i < S.size(); i++){
-            if(S[i] != S[S.size() - i - 1]){
+        int l = 0, r = s.size() - 1;
+        
+        while(l < r){
+            if(s[l] == s[r]){
+                l++;
+                r--;
+                continue;
+            }else{
+                cout<<s[l]<<s[r]<<endl;
                 return false;
             }
         }
-            
+        
         return true;
     }
 };
