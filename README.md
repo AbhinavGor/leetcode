@@ -7,6 +7,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AbhinavGor/leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/AbhinavGor/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AbhinavGor/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/AbhinavGor/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -57,6 +58,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AbhinavGor/leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/AbhinavGor/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhinavGor/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Matrix
@@ -71,4 +73,8 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhinavGor/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AbhinavGor/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
