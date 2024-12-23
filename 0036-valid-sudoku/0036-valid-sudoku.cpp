@@ -1,46 +1,59 @@
 class Solution {
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
-        for(int i = 0; i < board.size(); i++){
-            unordered_map<char, int> row, col;
-            
-            //checks rows and columns
-            for(int j = 0; j < board[i].size(); j++){
-                if(board[i][j] != '.'){
-                    if(!row[board[i][j]]){
-                        row[board[i][j]] = 1;
-                    }else{
-                        return false;
-                    }
-                }
-                
-                if(board[j][i] != '.'){
-                    if(!col[board[j][i]]){
-                        col[board[j][i]] = 1;
-                    }else{
-                        return false;
-                    }
-                }
-            }
-        }
-        int sq[9][9] = {0};
-         for(int r = 0; r < 9; ++r){
-            for(int c = 0; c < 9; ++c){
-                if(board[r][c] == '.')
-                    continue;
-
-                int idx = board[r][c] - '0' - 1;
-                int area = (r/3) * 3 + (c/3);
-
-                //if number already exists
-                if(sq[area][idx] == 1){
+        // check rows
+        for(int i = 0; i < 9; i++) {
+            set<char> s;
+            for (int j = 0; j < 9; j++) {
+                if(s.find(board[i][j]) != s.end()) {
+                    cout<<board[i][j]<<" "<<endl;
                     return false;
                 }
-
-                sq[area][idx] = 1;
+                if(isalnum(board[i][j])){
+                    s.insert(board[i][j]);
+                }
             }
         }
-        
+
+        // Check cols
+        unordered_map<int, set<char>> m;
+        for(int i = 0; i < 9; i++) {
+            set<char> s;
+            for (int j = 0; j < 9; j++) {
+                if(s.find(board[j][i]) != s.end()) {
+                    cout<<'here'<<endl;
+                    return false;
+                }
+                if(isalnum(board[j][i])) {
+                    s.insert(board[j][i]);
+                }
+            }
+        }
+
+        // check in each 3x3 box
+        vector<vector<set<char>>> s;
+
+        for(int i = 0; i < 3; i++) {
+            vector<set<char>> temp;
+            s.push_back(temp);
+            for (int j = 0; j < 3; j++) {
+                set<char> t;
+                s[i].push_back(t);
+            }
+        }
+
+        for(int i = 0; i < 9; i++) {
+            for (int j = 0; j < 9; j++) {
+                if(s[(int)i/3][(int)j/3].find(board[i][j]) != s[(int)i/3][(int)j/3].end()) {
+                    cout<<board[i][j]<<" "<<i<<" "<<j<<endl;
+                    return false;
+                }
+                if(isalnum(board[i][j])){
+                    s[(int)i/3][(int)j/3].insert(board[i][j]);
+                }
+            }
+        }
+
         return true;
     }
 };
