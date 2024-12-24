@@ -1,25 +1,38 @@
 class Solution {
 public:
     bool isValid(string s) {
-        stack<char> st;
-        
-        for(int i = 0; i < s.size(); i++){
-            if(s[i] == '(' || s[i] == '[' || s[i] == '{'){
-                st.push(s[i]);
-            }else if(!st.empty()){
-                char temp = st.top();
-                if((temp == '(' && s[i] == ')') || (temp == '[' && s[i] == ']') || (temp == '{' && s[i] == '}')){
-                    cout<<st.top()<<endl;
-                    st.pop();
-                    continue;
-                }else{
+        stack<char> p;
+
+        for(char c: s) {
+            if(c == '(' || c == '[' || c == '{') {
+                p.push(c);
+            } else if(c == ')') {
+                if (p.empty()) {return false;};
+                char temp = p.top();
+                if(temp != '(') {
                     return false;
                 }
-            }else{
-                return false;
+                p.pop();
+                continue;
+            } else if (c == ']') {
+                if (p.empty()) {return false;};
+                char temp = p.top();
+                if(temp != '[') {
+                    return false;
+                }
+                p.pop();
+                continue;
+            } else if (c == '}') {
+                if (p.empty()) {return false;};
+                char temp = p.top();
+                if(temp != '{') {
+                    return false;
+                }
+                p.pop();
+                continue;
             }
         }
-        
-        return st.empty();
+
+        return p.empty();
     }
 };
