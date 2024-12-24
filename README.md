@@ -24,6 +24,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AbhinavGor/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AbhinavGor/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AbhinavGor/leetcode/tree/master/0125-valid-palindrome) |
 ## Sorting
@@ -77,4 +78,8 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AbhinavGor/leetcode/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AbhinavGor/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
