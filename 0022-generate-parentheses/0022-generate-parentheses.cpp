@@ -2,24 +2,24 @@ class Solution {
 public:
     vector<string> generateParenthesis(int n) {
         vector<string> res;
-        generate(n, 0, 0, "", res);
-        
+
+        generate(0, 0, n, "", res);
+
         return res;
     }
 
 private:
-    void generate(int n, int open, int close, string str, vector<string>& res){
-        if(open == n && close == n){
-            res.push_back(str);
+    void generate(int o, int c, int n, string s, vector<string>& res) {
+        if(o == n && c == n) {
+            res.push_back(s);
+            return;
         }
-        
-        if(open < n){
-            generate(n, open + 1, close, str + '(', res);
+        if(o < n) {
+            generate(o+1, c, n, s + '(', res);
         }
-        
-        if(open > close){
-            generate(n, open, close + 1, str + ')', res);
+
+        if(o > c) {
+            generate(o, c+1, n, s + ')', res);
         }
     }
-    
 };
