@@ -27,6 +27,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhinavGor/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/AbhinavGor/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AbhinavGor/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/AbhinavGor/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AbhinavGor/leetcode/tree/master/0125-valid-palindrome) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AbhinavGor/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -95,4 +96,12 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhinavGor/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AbhinavGor/leetcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AbhinavGor/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
