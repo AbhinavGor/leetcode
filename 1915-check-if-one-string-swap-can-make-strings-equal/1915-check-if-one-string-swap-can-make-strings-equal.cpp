@@ -9,19 +9,15 @@ public:
             return false;
         }
         int c = 0;
-        char temp;
 
         for(int i = 0; i < s1.size(); i++) {
             if(s1[i] != s2[i]) {
-                // if(c > 0 and s2[i] != temp) return false;
+                if(c > 2) return false;
                 c+=1;
-                // temp = s1[i];
             }
         }
 
-        if(c > 2) {
-            return false;
-        }
+        if(c > 2) return false;
 
         return true;
     }
