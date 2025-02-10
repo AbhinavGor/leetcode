@@ -17,6 +17,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0334-increasing-triplet-subsequence](https://github.com/AbhinavGor/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1364-tuple-with-same-product](https://github.com/AbhinavGor/leetcode/tree/master/1364-tuple-with-same-product) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/AbhinavGor/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AbhinavGor/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AbhinavGor/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/AbhinavGor/leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
@@ -125,6 +126,11 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 ## Simulation
 |  |
 | ------- |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/AbhinavGor/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/AbhinavGor/leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AbhinavGor/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+## Brainteaser
+|  |
+| ------- |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/AbhinavGor/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 <!---LeetCode Topics End-->
