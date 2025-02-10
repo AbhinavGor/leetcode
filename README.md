@@ -18,6 +18,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [1364-tuple-with-same-product](https://github.com/AbhinavGor/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AbhinavGor/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AbhinavGor/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/AbhinavGor/leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AbhinavGor/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/AbhinavGor/leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AbhinavGor/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -65,6 +66,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1364-tuple-with-same-product](https://github.com/AbhinavGor/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AbhinavGor/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/AbhinavGor/leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 ## Quickselect
 |  |
 | ------- |
@@ -121,5 +123,6 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 ## Simulation
 |  |
 | ------- |
+| [3220-count-tested-devices-after-test-operations](https://github.com/AbhinavGor/leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AbhinavGor/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
