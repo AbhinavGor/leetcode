@@ -11,28 +11,25 @@
 class Solution {
 public:
     void reorderList(ListNode* head) {
-        vector<int> vals;
-        ListNode* temp = head;
+        ListNode* dum = head;
+        vector<int> res;
 
-        while(temp) {
-            vals.push_back(temp->val);
-            temp = temp->next;
+        while(dum->next != nullptr) {
+            res.push_back(dum->val);
+            dum = dum->next;
         }
-
-        temp = head;
-
-        int f = 0, l = vals.size() - 1, c = 0;
-
-        while(temp) {
-            if(c % 2 == 0) {
-                temp->val = vals[f];
-                f++;
+        res.push_back(dum->val);
+        dum = head;
+        int i = 0, n = res.size()-1;
+        while(dum->next != nullptr) {
+            if(i%2 == 0) {
+                dum->val = res[i/2];
             } else {
-                temp->val = vals[l];
-                l--;
+                dum->val = res[n--];
             }
-            c++;
-            temp = temp->next;
+            dum = dum->next;
+            i++;
         }
+        dum->val = res[n--];
     }
 };
