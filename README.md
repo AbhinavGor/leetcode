@@ -22,6 +22,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/AbhinavGor/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AbhinavGor/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AbhinavGor/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/AbhinavGor/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2547-odd-string-difference](https://github.com/AbhinavGor/leetcode/tree/master/2547-odd-string-difference) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/AbhinavGor/leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AbhinavGor/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -37,6 +38,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1364-tuple-with-same-product](https://github.com/AbhinavGor/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AbhinavGor/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/AbhinavGor/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2547-odd-string-difference](https://github.com/AbhinavGor/leetcode/tree/master/2547-odd-string-difference) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AbhinavGor/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
@@ -77,6 +79,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1364-tuple-with-same-product](https://github.com/AbhinavGor/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AbhinavGor/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/AbhinavGor/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/AbhinavGor/leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 ## Quickselect
 |  |
@@ -115,6 +118,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | ------- |
 | [0011-container-with-most-water](https://github.com/AbhinavGor/leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/AbhinavGor/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/AbhinavGor/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Stack
 |  |
 | ------- |
