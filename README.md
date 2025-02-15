@@ -19,6 +19,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0334-increasing-triplet-subsequence](https://github.com/AbhinavGor/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1364-tuple-with-same-product](https://github.com/AbhinavGor/leetcode/tree/master/1364-tuple-with-same-product) |
+| [1428-jump-game-iii](https://github.com/AbhinavGor/leetcode/tree/master/1428-jump-game-iii) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/AbhinavGor/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AbhinavGor/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AbhinavGor/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -174,6 +175,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhinavGor/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1428-jump-game-iii](https://github.com/AbhinavGor/leetcode/tree/master/1428-jump-game-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -186,4 +188,8 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/AbhinavGor/leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1428-jump-game-iii](https://github.com/AbhinavGor/leetcode/tree/master/1428-jump-game-iii) |
 <!---LeetCode Topics End-->
