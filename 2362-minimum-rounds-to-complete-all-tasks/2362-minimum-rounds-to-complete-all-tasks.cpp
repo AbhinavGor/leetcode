@@ -6,8 +6,6 @@ public:
         for(int task : tasks) {
             m[task]+=1;
         }
-
-        sort(tasks.begin(), tasks.end());
         
         int res = 0;
 
