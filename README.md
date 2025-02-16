@@ -38,6 +38,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0036-valid-sudoku](https://github.com/AbhinavGor/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AbhinavGor/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/AbhinavGor/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/AbhinavGor/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/AbhinavGor/leetcode/tree/master/0496-next-greater-element-i) |
 | [1364-tuple-with-same-product](https://github.com/AbhinavGor/leetcode/tree/master/1364-tuple-with-same-product) |
@@ -54,6 +55,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0049-group-anagrams](https://github.com/AbhinavGor/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/AbhinavGor/leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/AbhinavGor/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/AbhinavGor/leetcode/tree/master/0242-valid-anagram) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AbhinavGor/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AbhinavGor/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AbhinavGor/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -65,6 +67,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AbhinavGor/leetcode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/AbhinavGor/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
