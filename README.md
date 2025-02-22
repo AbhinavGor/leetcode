@@ -22,6 +22,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0334-increasing-triplet-subsequence](https://github.com/AbhinavGor/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/AbhinavGor/leetcode/tree/master/0496-next-greater-element-i) |
+| [0792-binary-search](https://github.com/AbhinavGor/leetcode/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/AbhinavGor/leetcode/tree/master/0917-boats-to-save-people) |
 | [1364-tuple-with-same-product](https://github.com/AbhinavGor/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1428-jump-game-iii](https://github.com/AbhinavGor/leetcode/tree/master/1428-jump-game-iii) |
@@ -136,6 +137,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbhinavGor/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhinavGor/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/AbhinavGor/leetcode/tree/master/0792-binary-search) |
 ## Greedy
 |  |
 | ------- |
