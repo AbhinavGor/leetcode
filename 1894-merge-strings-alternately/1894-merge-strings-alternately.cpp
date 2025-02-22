@@ -1,26 +1,29 @@
 class Solution {
 public:
-    string mergeAlternately(string word1, string word2) {
-        int n1 = word1.size(), n2 = word2.size();
+    string mergeAlternately(string w1, string w2) {
+        int n1 = w1.size()-1, n2 = w2.size()-1;
+        int a = 0, b = 0;
         string res = "";
-        int i;
-        for(i = 0; i < n1+n2; i++) {
-            if(!(i/2 < word1.size() && i/2 < word2.size())) {
-                break;
-            }
-            if(i%2) {
-                if(i/2 < word2.size()){
-                    res += word2[i/2];
-                }
-            } else {
-                res += word1[i/2];
-            }
+
+        while(a <= n1 && b <= n2) {
+            res += w1[a];
+            res += w2[b];
+            a+=1;
+            b+=1;
         }
 
-        if(i/2 >= word1.size()) {
-            for(int j = i/2; j < word2.size(); j++) res+=word2[j];
-        } else if(i/2 >= word2.size()) {
-            for(int j = i/2; j < word1.size(); j++) res+=word1[j];
+        if(a <= n1) {
+            while(a <= n1) {
+                res += w1[a];
+                a+=1;
+            }
+        } 
+        cout<<b<<" "<<n2<<endl;
+        if(b <= n2) {
+            while(b <= n2) {
+                res += w2[b];
+                b+=1;
+            }
         }
 
         return res;
