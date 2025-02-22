@@ -11,6 +11,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0027-remove-element](https://github.com/AbhinavGor/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/AbhinavGor/leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/AbhinavGor/leetcode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/AbhinavGor/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/AbhinavGor/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/AbhinavGor/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbhinavGor/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -104,6 +105,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0011-container-with-most-water](https://github.com/AbhinavGor/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/AbhinavGor/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/AbhinavGor/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/AbhinavGor/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/AbhinavGor/leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/AbhinavGor/leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhinavGor/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -131,6 +133,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AbhinavGor/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AbhinavGor/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/AbhinavGor/leetcode/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/AbhinavGor/leetcode/tree/master/0143-reorder-list) |
@@ -153,6 +156,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AbhinavGor/leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AbhinavGor/leetcode/tree/master/0042-trapping-rain-water) |
 ## Backtracking
 |  |
 | ------- |
@@ -208,5 +212,6 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AbhinavGor/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/AbhinavGor/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
