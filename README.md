@@ -34,6 +34,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [1927-maximum-ascending-subarray-sum](https://github.com/AbhinavGor/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/AbhinavGor/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2547-odd-string-difference](https://github.com/AbhinavGor/leetcode/tree/master/2547-odd-string-difference) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AbhinavGor/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/AbhinavGor/leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AbhinavGor/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/AbhinavGor/leetcode/tree/master/3429-special-array-i) |
@@ -55,6 +56,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AbhinavGor/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/AbhinavGor/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2547-odd-string-difference](https://github.com/AbhinavGor/leetcode/tree/master/2547-odd-string-difference) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AbhinavGor/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AbhinavGor/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
 |  |
@@ -129,6 +131,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0917-boats-to-save-people](https://github.com/AbhinavGor/leetcode/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/AbhinavGor/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/AbhinavGor/leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AbhinavGor/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Matrix
 |  |
 | ------- |
