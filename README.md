@@ -258,4 +258,8 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/AbhinavGor/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/AbhinavGor/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
