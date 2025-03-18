@@ -262,4 +262,8 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/AbhinavGor/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/AbhinavGor/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
