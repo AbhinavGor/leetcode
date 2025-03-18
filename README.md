@@ -59,6 +59,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0219-contains-duplicate-ii](https://github.com/AbhinavGor/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AbhinavGor/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/AbhinavGor/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/AbhinavGor/leetcode/tree/master/0496-next-greater-element-i) |
 | [1023-time-based-key-value-store](https://github.com/AbhinavGor/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1364-tuple-with-same-product](https://github.com/AbhinavGor/leetcode/tree/master/1364-tuple-with-same-product) |
@@ -79,6 +80,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0125-valid-palindrome](https://github.com/AbhinavGor/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AbhinavGor/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AbhinavGor/leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/AbhinavGor/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/AbhinavGor/leetcode/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/AbhinavGor/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1023-time-based-key-value-store](https://github.com/AbhinavGor/leetcode/tree/master/1023-time-based-key-value-store) |
@@ -117,6 +119,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | ------- |
 | [0169-majority-element](https://github.com/AbhinavGor/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/AbhinavGor/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1364-tuple-with-same-product](https://github.com/AbhinavGor/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AbhinavGor/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/AbhinavGor/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -283,4 +286,8 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0009-palindrome-number](https://github.com/AbhinavGor/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AbhinavGor/leetcode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/AbhinavGor/leetcode/tree/master/0412-fizz-buzz) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AbhinavGor/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
