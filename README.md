@@ -78,6 +78,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0125-valid-palindrome](https://github.com/AbhinavGor/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AbhinavGor/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AbhinavGor/leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/AbhinavGor/leetcode/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/AbhinavGor/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1023-time-based-key-value-store](https://github.com/AbhinavGor/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AbhinavGor/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -213,6 +214,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/AbhinavGor/leetcode/tree/master/0412-fizz-buzz) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/AbhinavGor/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AbhinavGor/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/AbhinavGor/leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
@@ -276,4 +278,5 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | ------- |
 | [0009-palindrome-number](https://github.com/AbhinavGor/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AbhinavGor/leetcode/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/AbhinavGor/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
