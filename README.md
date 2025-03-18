@@ -21,6 +21,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0088-merge-sorted-array](https://github.com/AbhinavGor/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhinavGor/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AbhinavGor/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/AbhinavGor/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbhinavGor/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhinavGor/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AbhinavGor/leetcode/tree/master/0169-majority-element) |
@@ -253,6 +254,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AbhinavGor/leetcode/tree/master/0136-single-number) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/AbhinavGor/leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Enumeration
 |  |
