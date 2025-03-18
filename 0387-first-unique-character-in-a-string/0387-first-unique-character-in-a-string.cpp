@@ -1,20 +1,21 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
+        queue<char> q;
         unordered_map<char, int> m;
-        
-        for(int i = 0; i < s.size(); i++)
-            m[s[i]] = 0;
-        
-        for(int i = 0; i < s.size(); i++)
-            m[s[i]]++;
-        
-        for(int i = 0; i < s.size(); i++){
-            if(m[s[i]] == 1){
-                return i;
-            }
+
+        for(char c: s) {
+            q.push(c);
+            m[c]++;
         }
-        
+
+        while(!q.empty()) {
+            char c = q.front();
+            q.pop();
+
+            if(m[c] == 1) return s.size() - q.size() - 1;
+        }
+
         return -1;
     }
 };
