@@ -7,6 +7,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AbhinavGor/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AbhinavGor/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhinavGor/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AbhinavGor/leetcode/tree/master/0027-remove-element) |
@@ -43,6 +44,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AbhinavGor/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhinavGor/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/AbhinavGor/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AbhinavGor/leetcode/tree/master/0049-group-anagrams) |
