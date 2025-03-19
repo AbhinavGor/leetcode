@@ -41,6 +41,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AbhinavGor/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AbhinavGor/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/AbhinavGor/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AbhinavGor/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2547-odd-string-difference](https://github.com/AbhinavGor/leetcode/tree/master/2547-odd-string-difference) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AbhinavGor/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/AbhinavGor/leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
@@ -69,6 +70,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [1364-tuple-with-same-product](https://github.com/AbhinavGor/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AbhinavGor/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/AbhinavGor/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AbhinavGor/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2547-odd-string-difference](https://github.com/AbhinavGor/leetcode/tree/master/2547-odd-string-difference) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AbhinavGor/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AbhinavGor/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -106,6 +108,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0268-missing-number](https://github.com/AbhinavGor/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0917-boats-to-save-people](https://github.com/AbhinavGor/leetcode/tree/master/0917-boats-to-save-people) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AbhinavGor/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AbhinavGor/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -188,6 +192,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0680-valid-palindrome-ii](https://github.com/AbhinavGor/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/AbhinavGor/leetcode/tree/master/0917-boats-to-save-people) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/AbhinavGor/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AbhinavGor/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Stack
 |  |
 | ------- |
@@ -228,6 +233,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | ------- |
 | [0412-fizz-buzz](https://github.com/AbhinavGor/leetcode/tree/master/0412-fizz-buzz) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/AbhinavGor/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AbhinavGor/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AbhinavGor/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/AbhinavGor/leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AbhinavGor/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
