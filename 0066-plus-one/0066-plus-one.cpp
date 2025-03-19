@@ -1,27 +1,22 @@
 class Solution {
 public:
     vector<int> plusOne(vector<int>& digits) {
-        
-        int pos = digits.size() - 1, carry = 1;
-        
-        while(carry != 0 && pos >= 0){
-            digits[pos] += carry;
-            carry = digits[pos]/10;
-            digits[pos] = digits[pos]%10;
-            pos--;
+        int curr = 1;
+        for(int i = digits.size() - 1; i >= 0; i--) {
+            digits[i]+=curr;
+            // if(digits[i]%10 == 0) return digits;
+            curr = digits[i]/10;
+            digits[i] %= 10;
         }
         
-        vector<int> res;
-        
-        if (pos < 0 && carry > 0){
-            res.push_back(carry);
-            for(auto i:  digits){
-                res.push_back(i);
-            }
-            
-            return res;
+        if(curr!=0) {
+            cout<<"here "<<curr<<endl;
+            digits.insert(digits.begin(), curr);
+            // digits[1] %= 10;
+        } else {
+            cout<<"heree";
         }
-        
+
         return digits;
     }
 };
