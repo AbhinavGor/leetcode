@@ -1,12 +1,11 @@
 class Solution {
 public:
     void reverseString(vector<char>& s) {
-        int t, n = s.size() - 1;
-        for(int i = 0; i < s.size()/2; i++) {
-            t = s[i];
-            t = t + s[n - i];
-            s[i] = t - s[i];
-            s[n - i] = t - s[i];
+        int n = s.size();
+        for(int i = 0; i < n/2; i++) {
+            char t = s[i];
+            s[i] = s[n-i-1];
+            s[n-i-1] = t;
         }
     }
 };
