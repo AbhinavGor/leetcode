@@ -10,11 +10,8 @@ public:
         }
         
         if(curr!=0) {
-            cout<<"here "<<curr<<endl;
             digits.insert(digits.begin(), curr);
             // digits[1] %= 10;
-        } else {
-            cout<<"heree";
         }
 
         return digits;
