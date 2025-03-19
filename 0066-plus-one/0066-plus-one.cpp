@@ -11,7 +11,6 @@ public:
         
         if(curr!=0) {
             digits.insert(digits.begin(), curr);
-            // digits[1] %= 10;
         }
 
         return digits;
