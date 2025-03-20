@@ -59,6 +59,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0049-group-anagrams](https://github.com/AbhinavGor/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/AbhinavGor/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AbhinavGor/leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/AbhinavGor/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/AbhinavGor/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/AbhinavGor/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AbhinavGor/leetcode/tree/master/0242-valid-anagram) |
@@ -214,6 +215,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AbhinavGor/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/AbhinavGor/leetcode/tree/master/0155-min-stack) |
 | [1023-time-based-key-value-store](https://github.com/AbhinavGor/leetcode/tree/master/1023-time-based-key-value-store) |
 ## Sliding Window
@@ -251,6 +253,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/AbhinavGor/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/AbhinavGor/leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/AbhinavGor/leetcode/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -315,4 +318,8 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AbhinavGor/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AbhinavGor/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
