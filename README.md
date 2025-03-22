@@ -20,6 +20,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0056-merge-intervals](https://github.com/AbhinavGor/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/AbhinavGor/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/AbhinavGor/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/AbhinavGor/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/AbhinavGor/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhinavGor/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AbhinavGor/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -90,6 +91,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0022-generate-parentheses](https://github.com/AbhinavGor/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/AbhinavGor/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/AbhinavGor/leetcode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/AbhinavGor/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AbhinavGor/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AbhinavGor/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AbhinavGor/leetcode/tree/master/0344-reverse-string) |
@@ -182,6 +184,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | ------- |
 | [0036-valid-sudoku](https://github.com/AbhinavGor/leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/AbhinavGor/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/AbhinavGor/leetcode/tree/master/0079-word-search) |
 | [1036-rotting-oranges](https://github.com/AbhinavGor/leetcode/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
@@ -248,6 +251,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AbhinavGor/leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/AbhinavGor/leetcode/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -288,6 +292,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AbhinavGor/leetcode/tree/master/0079-word-search) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhinavGor/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AbhinavGor/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
