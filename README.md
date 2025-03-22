@@ -254,6 +254,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AbhinavGor/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AbhinavGor/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/AbhinavGor/leetcode/tree/master/0141-linked-list-cycle) |
@@ -264,6 +265,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AbhinavGor/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AbhinavGor/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/AbhinavGor/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -316,6 +318,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AbhinavGor/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/AbhinavGor/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AbhinavGor/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AbhinavGor/leetcode/tree/master/0066-plus-one) |
