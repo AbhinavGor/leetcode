@@ -28,6 +28,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0169-majority-element](https://github.com/AbhinavGor/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/AbhinavGor/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AbhinavGor/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0252-meeting-rooms](https://github.com/AbhinavGor/leetcode/tree/master/0252-meeting-rooms) |
 | [0268-missing-number](https://github.com/AbhinavGor/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AbhinavGor/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/AbhinavGor/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -108,6 +109,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0088-merge-sorted-array](https://github.com/AbhinavGor/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AbhinavGor/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AbhinavGor/leetcode/tree/master/0242-valid-anagram) |
+| [0252-meeting-rooms](https://github.com/AbhinavGor/leetcode/tree/master/0252-meeting-rooms) |
 | [0268-missing-number](https://github.com/AbhinavGor/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0917-boats-to-save-people](https://github.com/AbhinavGor/leetcode/tree/master/0917-boats-to-save-people) |
