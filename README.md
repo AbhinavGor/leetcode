@@ -72,6 +72,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0380-insert-delete-getrandom-o1](https://github.com/AbhinavGor/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbhinavGor/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/AbhinavGor/leetcode/tree/master/0496-next-greater-element-i) |
+| [0778-reorganize-string](https://github.com/AbhinavGor/leetcode/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/AbhinavGor/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1364-tuple-with-same-product](https://github.com/AbhinavGor/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AbhinavGor/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -95,6 +96,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0387-first-unique-character-in-a-string](https://github.com/AbhinavGor/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/AbhinavGor/leetcode/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/AbhinavGor/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0778-reorganize-string](https://github.com/AbhinavGor/leetcode/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/AbhinavGor/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AbhinavGor/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AbhinavGor/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -115,6 +117,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0252-meeting-rooms](https://github.com/AbhinavGor/leetcode/tree/master/0252-meeting-rooms) |
 | [0268-missing-number](https://github.com/AbhinavGor/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/AbhinavGor/leetcode/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/AbhinavGor/leetcode/tree/master/0917-boats-to-save-people) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AbhinavGor/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Divide and Conquer
@@ -126,6 +129,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/AbhinavGor/leetcode/tree/master/0778-reorganize-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AbhinavGor/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
 |  |
@@ -137,6 +141,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0169-majority-element](https://github.com/AbhinavGor/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbhinavGor/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0778-reorganize-string](https://github.com/AbhinavGor/leetcode/tree/master/0778-reorganize-string) |
 | [1364-tuple-with-same-product](https://github.com/AbhinavGor/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AbhinavGor/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/AbhinavGor/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -201,6 +206,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0011-container-with-most-water](https://github.com/AbhinavGor/leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/AbhinavGor/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/AbhinavGor/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0778-reorganize-string](https://github.com/AbhinavGor/leetcode/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/AbhinavGor/leetcode/tree/master/0917-boats-to-save-people) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/AbhinavGor/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AbhinavGor/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
