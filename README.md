@@ -17,6 +17,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0036-valid-sudoku](https://github.com/AbhinavGor/leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/AbhinavGor/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/AbhinavGor/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/AbhinavGor/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/AbhinavGor/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/AbhinavGor/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/AbhinavGor/leetcode/tree/master/0088-merge-sorted-array) |
@@ -106,6 +107,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AbhinavGor/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/AbhinavGor/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AbhinavGor/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AbhinavGor/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AbhinavGor/leetcode/tree/master/0242-valid-anagram) |
