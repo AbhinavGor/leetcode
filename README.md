@@ -40,6 +40,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0380-insert-delete-getrandom-o1](https://github.com/AbhinavGor/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/AbhinavGor/leetcode/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/AbhinavGor/leetcode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/AbhinavGor/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0917-boats-to-save-people](https://github.com/AbhinavGor/leetcode/tree/master/0917-boats-to-save-people) |
 | [1036-rotting-oranges](https://github.com/AbhinavGor/leetcode/tree/master/1036-rotting-oranges) |
 | [1364-tuple-with-same-product](https://github.com/AbhinavGor/leetcode/tree/master/1364-tuple-with-same-product) |
@@ -209,6 +210,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0268-missing-number](https://github.com/AbhinavGor/leetcode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/AbhinavGor/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/AbhinavGor/leetcode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/AbhinavGor/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1023-time-based-key-value-store](https://github.com/AbhinavGor/leetcode/tree/master/1023-time-based-key-value-store) |
 ## Greedy
 |  |
