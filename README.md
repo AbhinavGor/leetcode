@@ -134,11 +134,13 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AbhinavGor/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/AbhinavGor/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/AbhinavGor/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AbhinavGor/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/AbhinavGor/leetcode/tree/master/0778-reorganize-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AbhinavGor/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -283,6 +285,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | ------- |
 | [0002-add-two-numbers](https://github.com/AbhinavGor/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AbhinavGor/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/AbhinavGor/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/AbhinavGor/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/AbhinavGor/leetcode/tree/master/0143-reorder-list) |
@@ -382,4 +385,8 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/AbhinavGor/leetcode/tree/master/0210-course-schedule-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AbhinavGor/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
