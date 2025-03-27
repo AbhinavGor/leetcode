@@ -17,6 +17,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0035-search-insert-position](https://github.com/AbhinavGor/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/AbhinavGor/leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/AbhinavGor/leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/AbhinavGor/leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/AbhinavGor/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AbhinavGor/leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/AbhinavGor/leetcode/tree/master/0056-merge-intervals) |
@@ -231,6 +232,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AbhinavGor/leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/AbhinavGor/leetcode/tree/master/0045-jump-game-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/AbhinavGor/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/AbhinavGor/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/AbhinavGor/leetcode/tree/master/0778-reorganize-string) |
@@ -271,6 +273,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | ------- |
 | [0022-generate-parentheses](https://github.com/AbhinavGor/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AbhinavGor/leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/AbhinavGor/leetcode/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhinavGor/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/AbhinavGor/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/AbhinavGor/leetcode/tree/master/0198-house-robber) |
