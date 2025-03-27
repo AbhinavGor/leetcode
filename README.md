@@ -24,6 +24,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0074-search-a-2d-matrix](https://github.com/AbhinavGor/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AbhinavGor/leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/AbhinavGor/leetcode/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AbhinavGor/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/AbhinavGor/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhinavGor/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AbhinavGor/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -234,6 +235,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0020-valid-parentheses](https://github.com/AbhinavGor/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AbhinavGor/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/AbhinavGor/leetcode/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AbhinavGor/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/AbhinavGor/leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhinavGor/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -342,6 +344,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AbhinavGor/leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AbhinavGor/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/AbhinavGor/leetcode/tree/master/0496-next-greater-element-i) |
 ## Interactive
 |  |
