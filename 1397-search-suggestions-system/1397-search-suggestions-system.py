@@ -1,17 +1,14 @@
 class Solution:
     def suggestedProducts(self, products: List[str], searchWord: str) -> List[List[str]]:
-        res = []
         products.sort()
-        l, r = 0, len(products) - 1
+        res = []
 
-        for i in range(len(searchWord)):
-            c = searchWord[i]
-
-            while l <= r and (len(products[l]) <= i or products[l][i] != c):
-                l += 1
-            while l <= r and (len(products[r]) <= i or products[r][i] != c):
-                r -= 1
-            
-            remain = min(3, r-l+1)
-            res.append(products[l:l+remain])
+        for i in range(1, len(searchWord)+1):
+            temp = []
+            for p in products:
+                if p.startswith(searchWord[:i]):
+                    temp.append(p)
+                    if len(temp) == 3:
+                        break
+            res.append(temp)
         return res
