@@ -32,6 +32,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0128-longest-consecutive-sequence](https://github.com/AbhinavGor/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AbhinavGor/leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/AbhinavGor/leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/AbhinavGor/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbhinavGor/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhinavGor/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AbhinavGor/leetcode/tree/master/0169-majority-element) |
@@ -277,6 +278,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0045-jump-game-ii](https://github.com/AbhinavGor/leetcode/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhinavGor/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/AbhinavGor/leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/AbhinavGor/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AbhinavGor/leetcode/tree/master/0198-house-robber) |
 ## Backtracking
 |  |
