@@ -29,6 +29,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhinavGor/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AbhinavGor/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AbhinavGor/leetcode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/AbhinavGor/leetcode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbhinavGor/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhinavGor/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AbhinavGor/leetcode/tree/master/0169-majority-element) |
@@ -70,6 +71,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0036-valid-sudoku](https://github.com/AbhinavGor/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AbhinavGor/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/AbhinavGor/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/AbhinavGor/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/AbhinavGor/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/AbhinavGor/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/AbhinavGor/leetcode/tree/master/0169-majority-element) |
@@ -102,6 +104,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0071-simplify-path](https://github.com/AbhinavGor/leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/AbhinavGor/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AbhinavGor/leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/AbhinavGor/leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/AbhinavGor/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AbhinavGor/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbhinavGor/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -264,6 +267,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0022-generate-parentheses](https://github.com/AbhinavGor/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AbhinavGor/leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhinavGor/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/AbhinavGor/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/AbhinavGor/leetcode/tree/master/0198-house-robber) |
 ## Backtracking
 |  |
@@ -394,4 +398,12 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AbhinavGor/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AbhinavGor/leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AbhinavGor/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
