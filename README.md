@@ -281,6 +281,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0022-generate-parentheses](https://github.com/AbhinavGor/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AbhinavGor/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AbhinavGor/leetcode/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/AbhinavGor/leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhinavGor/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/AbhinavGor/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/AbhinavGor/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -384,6 +385,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0009-palindrome-number](https://github.com/AbhinavGor/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/AbhinavGor/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AbhinavGor/leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/AbhinavGor/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/AbhinavGor/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AbhinavGor/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/AbhinavGor/leetcode/tree/master/0268-missing-number) |
@@ -426,4 +428,8 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [0139-word-break](https://github.com/AbhinavGor/leetcode/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AbhinavGor/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
