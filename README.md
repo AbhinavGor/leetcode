@@ -42,6 +42,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0252-meeting-rooms](https://github.com/AbhinavGor/leetcode/tree/master/0252-meeting-rooms) |
 | [0268-missing-number](https://github.com/AbhinavGor/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AbhinavGor/leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/AbhinavGor/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/AbhinavGor/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AbhinavGor/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -228,6 +229,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbhinavGor/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhinavGor/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/AbhinavGor/leetcode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/AbhinavGor/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/AbhinavGor/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/AbhinavGor/leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AbhinavGor/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -283,6 +285,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0139-word-break](https://github.com/AbhinavGor/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/AbhinavGor/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AbhinavGor/leetcode/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/AbhinavGor/leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Backtracking
 |  |
 | ------- |
