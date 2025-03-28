@@ -49,6 +49,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0496-next-greater-element-i](https://github.com/AbhinavGor/leetcode/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/AbhinavGor/leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AbhinavGor/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/AbhinavGor/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/AbhinavGor/leetcode/tree/master/0917-boats-to-save-people) |
 | [1036-rotting-oranges](https://github.com/AbhinavGor/leetcode/tree/master/1036-rotting-oranges) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/AbhinavGor/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
@@ -235,6 +236,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0374-guess-number-higher-or-lower](https://github.com/AbhinavGor/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/AbhinavGor/leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AbhinavGor/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/AbhinavGor/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/AbhinavGor/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1397-search-suggestions-system](https://github.com/AbhinavGor/leetcode/tree/master/1397-search-suggestions-system) |
 ## Greedy
