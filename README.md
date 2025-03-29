@@ -55,6 +55,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0917-boats-to-save-people](https://github.com/AbhinavGor/leetcode/tree/master/0917-boats-to-save-people) |
 | [1036-rotting-oranges](https://github.com/AbhinavGor/leetcode/tree/master/1036-rotting-oranges) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/AbhinavGor/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
+| [1127-last-stone-weight](https://github.com/AbhinavGor/leetcode/tree/master/1127-last-stone-weight) |
 | [1364-tuple-with-same-product](https://github.com/AbhinavGor/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1397-search-suggestions-system](https://github.com/AbhinavGor/leetcode/tree/master/1397-search-suggestions-system) |
 | [1428-jump-game-iii](https://github.com/AbhinavGor/leetcode/tree/master/1428-jump-game-iii) |
@@ -164,6 +165,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0023-merge-k-sorted-lists](https://github.com/AbhinavGor/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/AbhinavGor/leetcode/tree/master/0778-reorganize-string) |
+| [1127-last-stone-weight](https://github.com/AbhinavGor/leetcode/tree/master/1127-last-stone-weight) |
 | [1397-search-suggestions-system](https://github.com/AbhinavGor/leetcode/tree/master/1397-search-suggestions-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AbhinavGor/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
