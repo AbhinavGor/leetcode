@@ -53,6 +53,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0883-car-fleet](https://github.com/AbhinavGor/leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/AbhinavGor/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/AbhinavGor/leetcode/tree/master/0917-boats-to-save-people) |
+| [1014-k-closest-points-to-origin](https://github.com/AbhinavGor/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/AbhinavGor/leetcode/tree/master/1036-rotting-oranges) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/AbhinavGor/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1127-last-stone-weight](https://github.com/AbhinavGor/leetcode/tree/master/1127-last-stone-weight) |
@@ -149,6 +150,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0778-reorganize-string](https://github.com/AbhinavGor/leetcode/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/AbhinavGor/leetcode/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/AbhinavGor/leetcode/tree/master/0917-boats-to-save-people) |
+| [1014-k-closest-points-to-origin](https://github.com/AbhinavGor/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/AbhinavGor/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1397-search-suggestions-system](https://github.com/AbhinavGor/leetcode/tree/master/1397-search-suggestions-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AbhinavGor/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -159,12 +161,14 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0023-merge-k-sorted-lists](https://github.com/AbhinavGor/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/AbhinavGor/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/AbhinavGor/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AbhinavGor/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/AbhinavGor/leetcode/tree/master/0778-reorganize-string) |
+| [1014-k-closest-points-to-origin](https://github.com/AbhinavGor/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/AbhinavGor/leetcode/tree/master/1127-last-stone-weight) |
 | [1397-search-suggestions-system](https://github.com/AbhinavGor/leetcode/tree/master/1397-search-suggestions-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AbhinavGor/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -187,6 +191,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/AbhinavGor/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -428,6 +433,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0268-missing-number](https://github.com/AbhinavGor/leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AbhinavGor/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/AbhinavGor/leetcode/tree/master/0412-fizz-buzz) |
+| [1014-k-closest-points-to-origin](https://github.com/AbhinavGor/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Queue
 |  |
 | ------- |
@@ -477,4 +483,8 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/AbhinavGor/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/AbhinavGor/leetcode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
