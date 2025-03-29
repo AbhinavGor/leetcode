@@ -347,6 +347,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhinavGor/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AbhinavGor/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AbhinavGor/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0572-subtree-of-another-tree](https://github.com/AbhinavGor/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -359,6 +360,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0210-course-schedule-ii](https://github.com/AbhinavGor/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AbhinavGor/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AbhinavGor/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0572-subtree-of-another-tree](https://github.com/AbhinavGor/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1428-jump-game-iii](https://github.com/AbhinavGor/leetcode/tree/master/1428-jump-game-iii) |
 ## Binary Tree
 |  |
@@ -370,6 +372,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhinavGor/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AbhinavGor/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AbhinavGor/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0572-subtree-of-another-tree](https://github.com/AbhinavGor/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -461,4 +464,12 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AbhinavGor/leetcode/tree/master/0062-unique-paths) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/AbhinavGor/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/AbhinavGor/leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
