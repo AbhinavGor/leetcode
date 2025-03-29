@@ -340,6 +340,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AbhinavGor/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhinavGor/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AbhinavGor/leetcode/tree/master/0226-invert-binary-tree) |
@@ -348,6 +349,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AbhinavGor/leetcode/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AbhinavGor/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhinavGor/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0210-course-schedule-ii](https://github.com/AbhinavGor/leetcode/tree/master/0210-course-schedule-ii) |
@@ -357,6 +359,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AbhinavGor/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhinavGor/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AbhinavGor/leetcode/tree/master/0226-invert-binary-tree) |
@@ -375,6 +378,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AbhinavGor/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0210-course-schedule-ii](https://github.com/AbhinavGor/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AbhinavGor/leetcode/tree/master/0226-invert-binary-tree) |
 | [1036-rotting-oranges](https://github.com/AbhinavGor/leetcode/tree/master/1036-rotting-oranges) |
