@@ -38,6 +38,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhinavGor/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AbhinavGor/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/AbhinavGor/leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/AbhinavGor/leetcode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/AbhinavGor/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AbhinavGor/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0252-meeting-rooms](https://github.com/AbhinavGor/leetcode/tree/master/0252-meeting-rooms) |
@@ -228,11 +229,13 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0036-valid-sudoku](https://github.com/AbhinavGor/leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/AbhinavGor/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AbhinavGor/leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/AbhinavGor/leetcode/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/AbhinavGor/leetcode/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AbhinavGor/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/AbhinavGor/leetcode/tree/master/0200-number-of-islands) |
 ## Binary Search
 |  |
 | ------- |
@@ -369,6 +372,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0110-balanced-binary-tree](https://github.com/AbhinavGor/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhinavGor/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/AbhinavGor/leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/AbhinavGor/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AbhinavGor/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AbhinavGor/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -403,6 +407,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0100-same-tree](https://github.com/AbhinavGor/leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AbhinavGor/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AbhinavGor/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/AbhinavGor/leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/AbhinavGor/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AbhinavGor/leetcode/tree/master/0226-invert-binary-tree) |
 | [1036-rotting-oranges](https://github.com/AbhinavGor/leetcode/tree/master/1036-rotting-oranges) |
