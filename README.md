@@ -21,6 +21,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0045-jump-game-ii](https://github.com/AbhinavGor/leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/AbhinavGor/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AbhinavGor/leetcode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/AbhinavGor/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/AbhinavGor/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/AbhinavGor/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/AbhinavGor/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -228,6 +229,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/AbhinavGor/leetcode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/AbhinavGor/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/AbhinavGor/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AbhinavGor/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/AbhinavGor/leetcode/tree/master/0200-number-of-islands) |
@@ -321,6 +323,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AbhinavGor/leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/AbhinavGor/leetcode/tree/master/0412-fizz-buzz) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/AbhinavGor/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AbhinavGor/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
