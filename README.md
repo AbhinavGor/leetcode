@@ -51,6 +51,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AbhinavGor/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/AbhinavGor/leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/AbhinavGor/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/AbhinavGor/leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AbhinavGor/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/AbhinavGor/leetcode/tree/master/0883-car-fleet) |
@@ -98,6 +99,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0387-first-unique-character-in-a-string](https://github.com/AbhinavGor/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbhinavGor/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/AbhinavGor/leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/AbhinavGor/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0778-reorganize-string](https://github.com/AbhinavGor/leetcode/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/AbhinavGor/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/AbhinavGor/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
@@ -202,6 +204,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AbhinavGor/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/AbhinavGor/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AbhinavGor/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Two Pointers
 |  |
