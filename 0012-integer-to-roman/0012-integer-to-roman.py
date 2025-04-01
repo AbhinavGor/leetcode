@@ -1,6 +1,6 @@
 class Solution:
     def intToRoman(self, num: int) -> str:
-        m = {
+        ind = {
             1: "I",
             4: "IV",
             5: "V",
@@ -15,12 +15,12 @@ class Solution:
             900: "CM",
             1000: "M"
         }
-        mk = list(m.keys())[::-1]
-        
-        res = ""
 
-        for k in mk:
-            if num//k:
-                res += m[k]*(num//k )
-                num %= k
+        res = ""
+        keys = list(ind.keys())
+        keys.reverse()
+        for i in keys:
+            if num//i:
+                res += ind[i]*(num//i)
+                num %= i
         return res
