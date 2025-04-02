@@ -472,6 +472,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0412-fizz-buzz](https://github.com/AbhinavGor/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/AbhinavGor/leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/AbhinavGor/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1585-the-kth-factor-of-n](https://github.com/AbhinavGor/leetcode/tree/master/1585-the-kth-factor-of-n) |
 ## Queue
 |  |
 | ------- |
@@ -527,4 +528,8 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/AbhinavGor/leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/AbhinavGor/leetcode/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
