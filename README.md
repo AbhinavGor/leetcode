@@ -48,6 +48,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0219-contains-duplicate-ii](https://github.com/AbhinavGor/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AbhinavGor/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0252-meeting-rooms](https://github.com/AbhinavGor/leetcode/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/AbhinavGor/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/AbhinavGor/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AbhinavGor/leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/AbhinavGor/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -162,6 +163,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0217-contains-duplicate](https://github.com/AbhinavGor/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AbhinavGor/leetcode/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/AbhinavGor/leetcode/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/AbhinavGor/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/AbhinavGor/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/AbhinavGor/leetcode/tree/master/0778-reorganize-string) |
@@ -185,6 +187,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AbhinavGor/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AbhinavGor/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0253-meeting-rooms-ii](https://github.com/AbhinavGor/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/AbhinavGor/leetcode/tree/master/0355-design-twitter) |
 | [0778-reorganize-string](https://github.com/AbhinavGor/leetcode/tree/master/0778-reorganize-string) |
@@ -217,6 +220,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AbhinavGor/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/AbhinavGor/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhinavGor/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AbhinavGor/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Two Pointers
@@ -234,6 +238,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0143-reorder-list](https://github.com/AbhinavGor/leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhinavGor/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0253-meeting-rooms-ii](https://github.com/AbhinavGor/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/AbhinavGor/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AbhinavGor/leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/AbhinavGor/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -282,6 +287,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0011-container-with-most-water](https://github.com/AbhinavGor/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/AbhinavGor/leetcode/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/AbhinavGor/leetcode/tree/master/0134-gas-station) |
+| [0253-meeting-rooms-ii](https://github.com/AbhinavGor/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/AbhinavGor/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/AbhinavGor/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/AbhinavGor/leetcode/tree/master/0778-reorganize-string) |
