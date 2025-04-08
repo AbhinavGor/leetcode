@@ -106,6 +106,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0380-insert-delete-getrandom-o1](https://github.com/AbhinavGor/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbhinavGor/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbhinavGor/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0460-lfu-cache](https://github.com/AbhinavGor/leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/AbhinavGor/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhinavGor/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0778-reorganize-string](https://github.com/AbhinavGor/leetcode/tree/master/0778-reorganize-string) |
@@ -319,6 +320,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0155-min-stack](https://github.com/AbhinavGor/leetcode/tree/master/0155-min-stack) |
 | [0355-design-twitter](https://github.com/AbhinavGor/leetcode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AbhinavGor/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0460-lfu-cache](https://github.com/AbhinavGor/leetcode/tree/master/0460-lfu-cache) |
 | [1023-time-based-key-value-store](https://github.com/AbhinavGor/leetcode/tree/master/1023-time-based-key-value-store) |
 ## Sliding Window
 |  |
@@ -375,6 +377,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0146-lru-cache](https://github.com/AbhinavGor/leetcode/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/AbhinavGor/leetcode/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/AbhinavGor/leetcode/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -492,6 +495,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AbhinavGor/leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/AbhinavGor/leetcode/tree/master/0460-lfu-cache) |
 ## Randomized
 |  |
 | ------- |
