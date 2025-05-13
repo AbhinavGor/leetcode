@@ -24,6 +24,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0051-n-queens](https://github.com/AbhinavGor/leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/AbhinavGor/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/AbhinavGor/leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/AbhinavGor/leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/AbhinavGor/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/AbhinavGor/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AbhinavGor/leetcode/tree/master/0075-sort-colors) |
