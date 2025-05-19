@@ -83,6 +83,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AbhinavGor/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/AbhinavGor/leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AbhinavGor/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AbhinavGor/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/AbhinavGor/leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Hash Table
 |  |
@@ -496,6 +497,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [1014-k-closest-points-to-origin](https://github.com/AbhinavGor/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1585-the-kth-factor-of-n](https://github.com/AbhinavGor/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [3227-find-missing-and-repeated-values](https://github.com/AbhinavGor/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AbhinavGor/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Queue
 |  |
 | ------- |
