@@ -79,6 +79,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [2547-odd-string-difference](https://github.com/AbhinavGor/leetcode/tree/master/2547-odd-string-difference) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AbhinavGor/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/AbhinavGor/leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3227-find-missing-and-repeated-values](https://github.com/AbhinavGor/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AbhinavGor/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/AbhinavGor/leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AbhinavGor/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -120,6 +121,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AbhinavGor/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2547-odd-string-difference](https://github.com/AbhinavGor/leetcode/tree/master/2547-odd-string-difference) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AbhinavGor/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/AbhinavGor/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AbhinavGor/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
 |  |
@@ -261,6 +263,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0079-word-search](https://github.com/AbhinavGor/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/AbhinavGor/leetcode/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/AbhinavGor/leetcode/tree/master/1036-rotting-oranges) |
+| [3227-find-missing-and-repeated-values](https://github.com/AbhinavGor/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Union Find
 |  |
 | ------- |
@@ -492,6 +495,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [1013-fibonacci-number](https://github.com/AbhinavGor/leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/AbhinavGor/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1585-the-kth-factor-of-n](https://github.com/AbhinavGor/leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [3227-find-missing-and-repeated-values](https://github.com/AbhinavGor/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Queue
 |  |
 | ------- |
