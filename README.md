@@ -69,6 +69,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [1074-high-five](https://github.com/AbhinavGor/leetcode/tree/master/1074-high-five) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/AbhinavGor/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1127-last-stone-weight](https://github.com/AbhinavGor/leetcode/tree/master/1127-last-stone-weight) |
+| [1306-minimum-absolute-difference](https://github.com/AbhinavGor/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1364-tuple-with-same-product](https://github.com/AbhinavGor/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1397-search-suggestions-system](https://github.com/AbhinavGor/leetcode/tree/master/1397-search-suggestions-system) |
 | [1428-jump-game-iii](https://github.com/AbhinavGor/leetcode/tree/master/1428-jump-game-iii) |
@@ -181,6 +182,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [1014-k-closest-points-to-origin](https://github.com/AbhinavGor/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1074-high-five](https://github.com/AbhinavGor/leetcode/tree/master/1074-high-five) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/AbhinavGor/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
+| [1306-minimum-absolute-difference](https://github.com/AbhinavGor/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1397-search-suggestions-system](https://github.com/AbhinavGor/leetcode/tree/master/1397-search-suggestions-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AbhinavGor/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Divide and Conquer
