@@ -60,6 +60,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0496-next-greater-element-i](https://github.com/AbhinavGor/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhinavGor/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/AbhinavGor/leetcode/tree/master/0792-binary-search) |
+| [0817-design-hashmap](https://github.com/AbhinavGor/leetcode/tree/master/0817-design-hashmap) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AbhinavGor/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/AbhinavGor/leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/AbhinavGor/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -116,6 +117,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0496-next-greater-element-i](https://github.com/AbhinavGor/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhinavGor/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0778-reorganize-string](https://github.com/AbhinavGor/leetcode/tree/master/0778-reorganize-string) |
+| [0817-design-hashmap](https://github.com/AbhinavGor/leetcode/tree/master/0817-design-hashmap) |
 | [1023-time-based-key-value-store](https://github.com/AbhinavGor/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1074-high-five](https://github.com/AbhinavGor/leetcode/tree/master/1074-high-five) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/AbhinavGor/leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
@@ -335,6 +337,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0355-design-twitter](https://github.com/AbhinavGor/leetcode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AbhinavGor/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/AbhinavGor/leetcode/tree/master/0460-lfu-cache) |
+| [0817-design-hashmap](https://github.com/AbhinavGor/leetcode/tree/master/0817-design-hashmap) |
 | [1023-time-based-key-value-store](https://github.com/AbhinavGor/leetcode/tree/master/1023-time-based-key-value-store) |
 ## Sliding Window
 |  |
@@ -393,6 +396,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0234-palindrome-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/AbhinavGor/leetcode/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/AbhinavGor/leetcode/tree/master/0460-lfu-cache) |
+| [0817-design-hashmap](https://github.com/AbhinavGor/leetcode/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -556,6 +560,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/AbhinavGor/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0817-design-hashmap](https://github.com/AbhinavGor/leetcode/tree/master/0817-design-hashmap) |
 ## Geometry
 |  |
 | ------- |
