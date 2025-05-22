@@ -393,6 +393,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0141-linked-list-cycle](https://github.com/AbhinavGor/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/AbhinavGor/leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/AbhinavGor/leetcode/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/AbhinavGor/leetcode/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/AbhinavGor/leetcode/tree/master/0460-lfu-cache) |
@@ -405,6 +406,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0021-merge-two-sorted-lists](https://github.com/AbhinavGor/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/AbhinavGor/leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/AbhinavGor/leetcode/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/AbhinavGor/leetcode/tree/master/1013-fibonacci-number) |
 ## Tree
