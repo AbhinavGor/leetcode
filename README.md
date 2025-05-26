@@ -60,6 +60,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0435-non-overlapping-intervals](https://github.com/AbhinavGor/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/AbhinavGor/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhinavGor/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/AbhinavGor/leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/AbhinavGor/leetcode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/AbhinavGor/leetcode/tree/master/0817-design-hashmap) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AbhinavGor/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -327,6 +328,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0155-min-stack](https://github.com/AbhinavGor/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AbhinavGor/leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/AbhinavGor/leetcode/tree/master/0682-baseball-game) |
 | [0883-car-fleet](https://github.com/AbhinavGor/leetcode/tree/master/0883-car-fleet) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AbhinavGor/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AbhinavGor/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -376,6 +378,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | ------- |
 | [0054-spiral-matrix](https://github.com/AbhinavGor/leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/AbhinavGor/leetcode/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/AbhinavGor/leetcode/tree/master/0682-baseball-game) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/AbhinavGor/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AbhinavGor/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AbhinavGor/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
