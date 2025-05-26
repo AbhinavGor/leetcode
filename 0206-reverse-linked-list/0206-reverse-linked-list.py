@@ -8,13 +8,13 @@ class Solution:
         curr = head
         prev = None
 
+        res = curr
+
         while curr:
             temp = curr.next
             curr.next = prev
-            
             prev = curr
-            if temp:
-                curr = temp
-            else:
-                break
-        return curr
+
+            curr = temp
+        
+        return prev
