@@ -52,6 +52,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0253-meeting-rooms-ii](https://github.com/AbhinavGor/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/AbhinavGor/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AbhinavGor/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/AbhinavGor/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AbhinavGor/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/AbhinavGor/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -255,6 +256,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0234-palindrome-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0253-meeting-rooms-ii](https://github.com/AbhinavGor/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/AbhinavGor/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/AbhinavGor/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/AbhinavGor/leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/AbhinavGor/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -290,6 +292,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbhinavGor/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhinavGor/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/AbhinavGor/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/AbhinavGor/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AbhinavGor/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/AbhinavGor/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/AbhinavGor/leetcode/tree/master/0792-binary-search) |
@@ -457,6 +460,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0078-subsets](https://github.com/AbhinavGor/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AbhinavGor/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AbhinavGor/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/AbhinavGor/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/AbhinavGor/leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Enumeration
 |  |
