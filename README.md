@@ -330,6 +330,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0496-next-greater-element-i](https://github.com/AbhinavGor/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/AbhinavGor/leetcode/tree/master/0682-baseball-game) |
 | [0883-car-fleet](https://github.com/AbhinavGor/leetcode/tree/master/0883-car-fleet) |
+| [0937-online-stock-span](https://github.com/AbhinavGor/leetcode/tree/master/0937-online-stock-span) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AbhinavGor/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AbhinavGor/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/AbhinavGor/leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -343,6 +344,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0380-insert-delete-getrandom-o1](https://github.com/AbhinavGor/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/AbhinavGor/leetcode/tree/master/0460-lfu-cache) |
 | [0817-design-hashmap](https://github.com/AbhinavGor/leetcode/tree/master/0817-design-hashmap) |
+| [0937-online-stock-span](https://github.com/AbhinavGor/leetcode/tree/master/0937-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/AbhinavGor/leetcode/tree/master/1023-time-based-key-value-store) |
 ## Sliding Window
 |  |
@@ -488,6 +490,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0084-largest-rectangle-in-histogram](https://github.com/AbhinavGor/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/AbhinavGor/leetcode/tree/master/0496-next-greater-element-i) |
 | [0883-car-fleet](https://github.com/AbhinavGor/leetcode/tree/master/0883-car-fleet) |
+| [0937-online-stock-span](https://github.com/AbhinavGor/leetcode/tree/master/0937-online-stock-span) |
 ## Interactive
 |  |
 | ------- |
@@ -578,4 +581,8 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/AbhinavGor/leetcode/tree/master/1585-the-kth-factor-of-n) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/AbhinavGor/leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
