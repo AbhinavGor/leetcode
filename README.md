@@ -150,6 +150,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0242-valid-anagram](https://github.com/AbhinavGor/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AbhinavGor/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbhinavGor/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/AbhinavGor/leetcode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/AbhinavGor/leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbhinavGor/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/AbhinavGor/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -327,6 +328,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhinavGor/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/AbhinavGor/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/AbhinavGor/leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/AbhinavGor/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/AbhinavGor/leetcode/tree/master/0682-baseball-game) |
 | [0883-car-fleet](https://github.com/AbhinavGor/leetcode/tree/master/0883-car-fleet) |
@@ -416,6 +418,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0143-reorder-list](https://github.com/AbhinavGor/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/AbhinavGor/leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/AbhinavGor/leetcode/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
