@@ -3,19 +3,27 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        a, b = m-1, n-1
+        p = m + n - 1
+        n = n - 1
+        m = m - 1
 
-        for i in range(a+b+1, -1, -1):
-            if b >= 0 and a >= 0:
-                if nums2[b] > nums1[a]:
-                    nums1[i] = nums2[b]
-                    b-=1
-                else:
-                    nums1[i] = nums1[a]
-                    a-=1
-            elif a >= 0:
-                nums1[i] = nums1[a]
-                a-=1
-            elif b >= 0:
-                nums1[i] = nums2[b]
-                b-=1
+        while m >= 0 and n >= 0:
+            if nums1[m] > nums2[n]:
+                nums1[p] = nums1[m]
+                m -= 1
+            else:
+                nums1[p] = nums2[n]
+                n -= 1
+            
+            p-=1
+
+        while m >= 0 and p >= 0:
+            nums1[p] = nums1[m]
+            m -= 1
+            p -=1
+
+        while n >= 0 and p >= 0:
+            nums1[p] = nums2[n]
+            n -= 1
+            p -=1
+            
