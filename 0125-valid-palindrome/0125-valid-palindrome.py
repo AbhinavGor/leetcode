@@ -1,12 +1,17 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        cleaned_str = ""
+        clean_s = ""
         for i in s:
             if i.isalnum():
-                cleaned_str += i.lower()
+                clean_s += i.lower()
         
-        n = len(cleaned_str)
-        for i in range(n//2):
-            if cleaned_str[i]!=cleaned_str[n-i-1]:
+        l = 0
+        r = len(clean_s) - 1
+        while l <= r:
+            if clean_s[l] != clean_s[r]:
                 return False
+            l += 1
+            r -= 1
+        
         return True
+
