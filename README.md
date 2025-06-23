@@ -62,6 +62,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0435-non-overlapping-intervals](https://github.com/AbhinavGor/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/AbhinavGor/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhinavGor/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/AbhinavGor/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/AbhinavGor/leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/AbhinavGor/leetcode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/AbhinavGor/leetcode/tree/master/0817-design-hashmap) |
@@ -186,6 +187,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0268-missing-number](https://github.com/AbhinavGor/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/AbhinavGor/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0658-find-k-closest-elements](https://github.com/AbhinavGor/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/AbhinavGor/leetcode/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/AbhinavGor/leetcode/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/AbhinavGor/leetcode/tree/master/0917-boats-to-save-people) |
@@ -212,6 +214,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0253-meeting-rooms-ii](https://github.com/AbhinavGor/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavGor/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/AbhinavGor/leetcode/tree/master/0355-design-twitter) |
+| [0658-find-k-closest-elements](https://github.com/AbhinavGor/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/AbhinavGor/leetcode/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/AbhinavGor/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1074-high-five](https://github.com/AbhinavGor/leetcode/tree/master/1074-high-five) |
@@ -268,6 +271,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0287-find-the-duplicate-number](https://github.com/AbhinavGor/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/AbhinavGor/leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/AbhinavGor/leetcode/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/AbhinavGor/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/AbhinavGor/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/AbhinavGor/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/AbhinavGor/leetcode/tree/master/0917-boats-to-save-people) |
@@ -306,6 +310,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0287-find-the-duplicate-number](https://github.com/AbhinavGor/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AbhinavGor/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/AbhinavGor/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0658-find-k-closest-elements](https://github.com/AbhinavGor/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/AbhinavGor/leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AbhinavGor/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/AbhinavGor/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -367,6 +372,7 @@ A collection of Leetcode problems I solve. Checkout my LeetCode profile [here](h
 | [0219-contains-duplicate-ii](https://github.com/AbhinavGor/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbhinavGor/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AbhinavGor/leetcode/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/AbhinavGor/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
