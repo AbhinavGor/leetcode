@@ -1,14 +1,13 @@
 class Solution:
     def findClosestElements(self, arr: List[int], k: int, x: int) -> List[int]:
-        diff_arr = [0]*len(arr)
-        for i in range(len(arr)):
-            diff_arr[i] = [abs(arr[i] - x), arr[i]]
+        l, r = 0, len(arr) - k
 
-        diff_arr.sort()
+        while l < r:
+            m = (l+r) // 2
 
-        for i in range(k):
-            diff_arr[i] = diff_arr[i][1]
+            if x - arr[m] > arr[m+k] - x:
+                l = m + 1
+            else:
+                r = m
         
-        res = diff_arr[:k]
-        res.sort()
-        return res
+        return arr[l:l+k]
